@@ -1,6 +1,6 @@
 ---
 title: 확률과 통계 스터디 1주차 - 확률은 무엇인가?
-layout: post
+layout: default
 ---
 # 확률과 통계 스터디 1주차 - 확률은 무엇인가?
 
